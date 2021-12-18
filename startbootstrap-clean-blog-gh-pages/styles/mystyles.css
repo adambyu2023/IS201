@@ -1,0 +1,15 @@
+.Bold {
+    font-weight: bold;
+}
+
+.Underline {
+    text-decoration: underline;
+}
+
+.Italics {
+    font-style: italic;
+}
+
+.Color {
+    color: azure;
+}
